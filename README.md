@@ -14,8 +14,7 @@ Clona este repositorio y realiza la configuración inicial del proyecto:
     cd GestionLibros
     npm install
 
-Este comando instalará las dependencias tanto para el backend como para el frontend en una sola vez.
-
+Este comando instalará las dependencias tanto para el backend como para el frontend.
 
 
 Iniciar Backend y Frontend:
