@@ -1,0 +1,19 @@
+query booksFetch($author: String, $title: String, $page: Int, $limit: Int, $filters: BooksFilters){
+    booksFetch(author: $author, title: $title, page: $page, limit: $limit, filters: $filters){
+        docs{
+            id  
+            author
+            title
+            description
+            year
+            genre
+            rating
+            numPages
+            format
+        }
+        totalDocs
+    }
+
+  
+}
+

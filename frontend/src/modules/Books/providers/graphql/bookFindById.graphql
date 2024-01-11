@@ -1,0 +1,8 @@
+query bookFindById($id: ID){
+   bookFindById(id: $id){
+        id
+        author
+        title
+
+    }
+}

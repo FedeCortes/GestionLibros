@@ -1,0 +1,13 @@
+mutation deleteBookById($id: ID) {
+  deleteBookById(id: $id) {
+    id
+    author
+    title
+    description
+    year
+    genre
+    rating
+    numPages
+    format
+  }
+}
