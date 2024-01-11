@@ -17,7 +17,8 @@ Clona este repositorio y realiza la configuración inicial del proyecto:
 Este comando instalará las dependencias tanto para el backend como para el frontend en una sola vez.
 
 
-  Iniciar Backend y Frontend:
+
+Iniciar Backend y Frontend:
 
 Desde la carpeta principal, podes iniciar el backend y el frontend por separado utilizando los siguientes comandos:
 
